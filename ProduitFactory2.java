@@ -10,9 +10,6 @@ public class ProduitFactory2 implements IProduitFactory{
     }
 
 
-    @Override
-    public ProduitC getProduitC() {
-        return new ProduitC2();
-    }
+
     
 }
